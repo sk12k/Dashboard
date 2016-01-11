@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\ndhir1\Desktop\NewDashboardAPI</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/AppMapping.xml">
+      <publishTime>12/01/2015 13:59:50</publishTime>
+    </File>
+    <File Include="App_Data/DCZoneID.xml">
+      <publishTime>12/01/2015 13:59:52</publishTime>
+    </File>
+    <File Include="App_Data/LBURL.xml">
+      <publishTime>12/01/2015 13:59:52</publishTime>
+    </File>
+    <File Include="App_Data/LogicalNametoID.xml">
+      <publishTime>12/01/2015 13:59:50</publishTime>
+    </File>
+    <File Include="bin/DashboardAPI.dll">
+      <publishTime>12/02/2015 20:34:17</publishTime>
+    </File>
+    <File Include="bin/iControl.dll">
+      <publishTime>08/14/2014 10:20:42</publishTime>
+    </File>
+    <File Include="bin/iControlARX.dll">
+      <publishTime>06/18/2012 14:37:32</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>12/22/2008 09:35:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/02/2015 10:05:54</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>11/02/2015 10:05:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>11/02/2015 10:05:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>11/02/2015 10:05:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>11/15/2015 20:10:08</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>11/15/2015 20:10:08</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>11/15/2015 20:10:08</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>11/15/2015 20:10:08</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>11/15/2015 20:10:08</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/02/2015 10:05:52</publishTime>
+    </File>
+    <File Include="HtmlPage1.html">
+      <publishTime>11/24/2015 18:13:18</publishTime>
+    </File>
+    <File Include="Images/active.jpg">
+      <publishTime>11/10/2015 14:49:26</publishTime>
+    </File>
+    <File Include="Images/inactive.jpg">
+      <publishTime>11/10/2015 14:50:08</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/02/2015 10:05:56</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap-collapse.js">
+      <publishTime>11/17/2015 12:33:54</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>11/15/2015 20:09:06</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>11/15/2015 20:09:06</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.4.min.js">
+      <publishTime>11/10/2015 11:09:48</publishTime>
+    </File>
+    <File Include="Scripts/npm.js">
+      <publishTime>11/15/2015 20:09:06</publishTime>
+    </File>
+    <File Include="Scripts/ServerDetails.js">
+      <publishTime>12/01/2015 15:27:52</publishTime>
+    </File>
+    <File Include="Scripts/typeahead.bundle.js">
+      <publishTime>11/17/2015 11:00:04</publishTime>
+    </File>
+    <File Include="Scripts/typeahead.min.js">
+      <publishTime>11/16/2015 17:27:44</publishTime>
+    </File>
+    <File Include="ServerData.html">
+      <publishTime>12/01/2015 10:59:14</publishTime>
+    </File>
+    <File Include="Styles/bootstrap-theme.css">
+      <publishTime>11/15/2015 20:09:18</publishTime>
+    </File>
+    <File Include="Styles/bootstrap-theme.css.map">
+      <publishTime>11/15/2015 20:09:18</publishTime>
+    </File>
+    <File Include="Styles/bootstrap-theme.min.css">
+      <publishTime>11/15/2015 20:09:18</publishTime>
+    </File>
+    <File Include="Styles/bootstrap.css">
+      <publishTime>11/15/2015 20:09:18</publishTime>
+    </File>
+    <File Include="Styles/bootstrap.css.map">
+      <publishTime>11/15/2015 20:09:18</publishTime>
+    </File>
+    <File Include="Styles/bootstrap.min.css">
+      <publishTime>11/15/2015 20:09:18</publishTime>
+    </File>
+    <File Include="Styles/ServerDetails.css">
+      <publishTime>12/01/2015 11:33:16</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/01/2015 15:43:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

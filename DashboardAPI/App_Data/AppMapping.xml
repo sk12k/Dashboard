@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application ID ="Home.mcafee.com">
+  <AppName Name="denied.mcafee.com" Type ="Web-Internal" Nature ="HTTP" DC="SJV,DNV"/>
+  
+</Application>

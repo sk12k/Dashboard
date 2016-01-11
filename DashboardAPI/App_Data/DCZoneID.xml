@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DCZone>
+<ZoneInfo>
+  <Zone Name="PCI" ID="1"/>
+  <Zone Name="PUB" ID="2"/>
+  <Zone Name="INT" ID="3"/>
+  <Zone Name="TLS" ID="4"/>
+</ZoneInfo>
+  <DCInfo>
+    <DC Name="SJV" ID="1"/>
+    <DC Name="DNV" ID="2"/>
+    <DC Name="MIV" ID="3"/>
+    <DC Name="LVS" ID="4"/>
+  </DCInfo>
+  </DCZone>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataCenter>
+  <SJV>
+    <PCI>
+      <Primary URI ="us-sjv-pcilb1.corp.nai.org"/>
+      <Secondary URI ="us-sjv-pcilb2.corp.nai.org"/>
+    </PCI>
+    <PUB>
+      <Primary URI ="us-sjv-publb1.corp.nai.org"/>
+      <Secondary URI ="us-sjv-publb2.corp.nai.org"/>
+    </PUB>
+    <INT>
+      <Primary URI ="us-sjv-intlb1.corpzone.internalzone.com"/>
+      <Secondary URI ="us-sjv-intlb2.corpzone.internalzone.com"/>
+    </INT>
+  </SJV>
+  <DNV>
+    <PCI>
+      <Primary URI ="dnvpcilb1.corp.nai.org"/>
+      <Secondary URI ="dnvpcilb2.corp.nai.org"/>
+    </PCI>
+    <PUB>
+      <Primary URI ="dnvpublb1.corp.nai.org"/>
+      <Secondary URI ="dnvpublb2.corp.nai.org"/>
+    </PUB>
+    <INT>
+      <Primary URI ="dnvintlb3.corp.nai.org"/>
+      <Secondary URI ="dnvintlb4.corp.nai.org"/>
+    </INT>
+  </DNV>
+  <MIV>
+    <PCI>
+      <Primary URI ="us-miv-pcilb1.corp.nai.org"/>
+      <Secondary URI ="us-miv-pcilb2.corp.nai.org"/>
+    </PCI>
+    <PUB>
+      <Primary URI ="us-miv-publb1.corp.nai.org"/>
+      <Secondary URI ="us-miv-publb2.corp.nai.org"/>
+    </PUB>
+    <INT>
+      <Primary URI ="us-miv-intlb1.corp.nai.org"/>
+      <Secondary URI ="us-miv-intlb2.corp.nai.org"/>
+    </INT>
+    <TLS>
+      <Primary URI ="us-miv-tlslb1.corp.nai.org"/>
+      <Secondary URI ="us-miv-tlslb2.corp.nai.org"/>
+    </TLS>
+  </MIV>
+</DataCenter>
